@@ -1,1 +1,1 @@
-#  This is my local repo
+# This is a practice repository for learning Git and GitHub basics
